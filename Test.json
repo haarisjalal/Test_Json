@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "Haaris",
+    "Age": 36,
+    "Status": "Unemployed",
+    "Possible Applications": [
+        "Axis Capital", "Lixar IT", "Other"
+    ]
+  },
+  {
+      "Name": "Shawn",
+      "Age": 50,
+      "Status": "Unemployed",
+      "Possible Applications": [
+            "Other"
+      ]
+      }
+    ]
